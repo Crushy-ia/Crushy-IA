@@ -4,13 +4,13 @@ Bienvenue sur le repo officiel de **Crushy**, l'assistant intelligent créé pou
 
 ---
 
-## 🎯 Objectif du projet
+## 🎯 Objectif du projet *
 
 Crushy est un assistant IA humain, simple et efficace, qui guide les jeunes dans leur recherche d'emploi, formation ou orientation. Notre but est de leur offrir un accompagnement personnalisé, accessible et motivant, avec une vraie touche humaine.
 
 ---
 
-## 🚀 Ce que nous cherchons
+## 🚀 Ce que nous cherchons *
 
 Nous recherchons des développeurs passionnés par l'IA, le développement web/mobile, ou les chatbots, qui souhaitent contribuer à un projet à fort impact social.
 
@@ -22,7 +22,7 @@ Que tu sois étudiant, freelance, bootcampeur ou simplement curieux, rejoins-nou
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Technologies *
 
 Le projet est ouvert à propositions, mais on imagine une stack basée sur :
 
@@ -41,7 +41,7 @@ Le projet est ouvert à propositions, mais on imagine une stack basée sur :
 
 ---
 
-## 💬 Contact
+## 💬 Contact *
 
 Pour toute question ou discussion, n’hésite pas à ouvrir une issue ou m’envoyer un message privé.
 
